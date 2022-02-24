@@ -14,5 +14,4 @@
 <i><font color="yellow"> -Philip Tejeco  </font></i>
 <br>
 <h1><font color="white"> WELCOME TO OUR WEBPAGE <br></font><h1>
- 
-
+ <img src=”(ayo.jpg)”>
